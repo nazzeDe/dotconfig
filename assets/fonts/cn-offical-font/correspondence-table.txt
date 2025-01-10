@@ -1,0 +1,31 @@
+|中文名|英文名|
+|华文细黑|STHeiti Light [STXihei]|
+|华文黑体|STHeiti|
+|华文楷体|STKaiti|
+|华文宋体|STSong|
+|华文仿宋|STFangsong|
+|蘋果儷中黑|Apple LiGothic Medium|
+|蘋果儷細宋|Apple LiSung Light|
+|黑体|SimHei|
+|宋体|SimSun|
+|新宋体|NSimSun|
+|仿宋|FangSong|
+|楷体|KaiTi|
+|微軟正黑體|Microsoft JhengHei|
+|微软雅黑体|Microsoft YaHei|
+
+Office字体
+|隶书|LiSu|
+|幼圆|YouYuan|
+|华文细黑|STXihei|
+|华文楷体|STKaiti|
+|华文宋体|STSong|
+|华文中宋|STZhongsong|
+|华文仿宋|STFangsong|
+|方正舒体|FZShuTi|
+|方正姚体|FZYaoti|
+|华文彩云|STCaiyun|
+|华文琥珀|STHupo|
+|华文隶书|STLiti|
+|华文行楷|STXingkai|
+|华文新魏|STXinwei|
